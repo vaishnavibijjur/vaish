@@ -47,7 +47,7 @@ public class Student {
 
     public static void main(String[] args) {
         // Creating a new student with associated address
-        Student student1 = new Student("GIT HUB", 20, "ABC123", "123 Main St", "Cityville", "Stateville", "12345");
+        Student student1 = new Student("GIT HUB", 20, "ABC123", "Ashram Road", "Vijayapur", "Stateville", "586103");
         student1.displayStudentInfo();
 
         // Another student with a different address
