@@ -1,6 +1,10 @@
 
 // This program uses inheritance to extend Box.
 class Box {
+
+
+
+
 	double width;
 	double height;
 	double depth;
